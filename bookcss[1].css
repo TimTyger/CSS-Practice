@@ -5,8 +5,8 @@ h1 {color:whitesmoke;}
 body {
     background-color: lightseagreen;
     font-size: medium;  font-weight: 500; font-style: serif;
-}
+} /*defines background colour, font size and style*/
 
-.frontcover {text-align: center;}
+.frontcover {text-align: center;} /*align cover to middle*/
 
-.sublist {font-style: oblique;}
+.sublist {font-style: oblique;} /*change sublist font to oblique*/
