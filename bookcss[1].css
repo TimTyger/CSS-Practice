@@ -1,0 +1,12 @@
+h2 {color:whitesmoke;}
+
+h1 {color:whitesmoke;}
+
+body {
+    background-color: lightseagreen;
+    font-size: medium;  font-weight: 500; font-style: serif;
+}
+
+.frontcover {text-align: center;}
+
+.sublist {font-style: oblique;}
