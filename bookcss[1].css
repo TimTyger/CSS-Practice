@@ -1,12 +1,30 @@
-h2 {color:whitesmoke;}
+h2 {
+    color: whitesmoke;
+}
 
-h1 {color:whitesmoke;}
+h1 {
+    color: whitesmoke;
+}
 
 body {
     background-color: lightseagreen;
-    font-size: medium;  font-weight: 500; font-style: serif;
-} /*defines background colour, font size and style*/
+    font-size: medium;
+    font-weight: 500;
+    font-style: serif;
+}
 
-.frontcover {text-align: center;} /*align cover to middle*/
+li:hover {
+    color: white;
+}
 
-.sublist {font-style: oblique;} /*change sublist font to oblique*/
+ol > li {
+    color: grey;
+}
+
+.frontcover {
+    text-align: center;
+}
+
+.sublist {
+    font-style: oblique;
+}
